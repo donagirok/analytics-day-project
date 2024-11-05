@@ -12,7 +12,6 @@ from pywebio.exceptions import SessionClosedException
 import pickle
 import warnings
 import argparse
-import locale
 
 
 # Load the model pipeline from the file

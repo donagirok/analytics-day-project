@@ -1,2 +1,5 @@
 flask == 3.0.3
-pywebio >= 1.8.0
+pywebio == 1.8.3
+numpy 1.23.5
+pandas 1.5.3
+pickleshare 0.7.5
